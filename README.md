@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Hamed Aljamry</h1>
 <h3 align="center">A passionate full-stack developer based in London🇬🇧</h3>
 
+- I am working part-time as a TA @ LeWagon
+
 - 🔭 I’m currently working on  airbnbclone 🏡 + Mooviscope 🔍 + h2adrum2🥁🎶
 
 - 🌱 I’m currently learning **React**
