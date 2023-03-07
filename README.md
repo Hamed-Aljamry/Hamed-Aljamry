@@ -4,7 +4,7 @@
 
 - I am working part-time as a TA @ LeWagon
 
-- 🔭 I’m currently working on  airbnbclone 🏡 + Mooviscope 🔍 + h2adrum2🥁🎶
+- 🔭 I’m currently working on  TheVinylDestination💿
 
 - 🌱 I’m currently learning **React**
 
