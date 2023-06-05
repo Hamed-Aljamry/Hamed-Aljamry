@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hamed Aljamry</h1>
 <h3 align="center">A passionate full-stack developer based in London🇬🇧</h3>
 
-- I am working part-time as a TA @ LeWagon
+- I am working part-time as a Lecturer + TA @ LeWagon
 
 - 🔭 I’m currently working on  TheVinylDestination💿
 
